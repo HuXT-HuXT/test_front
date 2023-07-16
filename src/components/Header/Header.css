@@ -1,0 +1,15 @@
+.header {
+  width: 90%;
+  margin: auto;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: antiquewhite;
+}
+
+.header__menu {
+  display: flex;
+  gap: 20px;
+}
+
